@@ -1,0 +1,4 @@
+name: mysql
+summary: Interface for relating to MySQL
+version: 1
+maintainer: "David García <david.garcia@canonical.com>"
